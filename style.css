@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.brand-name1{
+    font-size: 30px;
+    font-weight: 650;
+    color: red;
+}
+
+.brand-name2{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
+
+.main-body{
+    margin-top: 10%;
+    margin-left: 30px;
+}
+
+.main-body1{
+    margin-left: 30px;
+}
+
+.main-img{
+    margin-left: -10%;
+}
+
+.index-text{
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.brand-name-1{
+    color: red;
+    font-weight: 650;
+    font-size: 60px;
+}
+
+
+.brand-name-2{
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.caption{
+    color: rgb(94, 0, 170);
+}
+
+.main-body-contact{
+    margin-top: 30px;
+}
+
+.rounded{
+    transition: transform .5s;
+}
+
+.rounded:hover{
+    transform: scale(1.03);
+}
